@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/GoogleMapsAPI_linker" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
